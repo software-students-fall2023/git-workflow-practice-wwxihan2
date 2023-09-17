@@ -3,7 +3,9 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 
 # Aritcle I Select
 
-[[The hardest problem in computer science](https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/)](https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/)
+[The hardest problem in computer science](https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/)
+
+
 
 # My Thought
 
