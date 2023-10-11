@@ -14,3 +14,7 @@ The article delves into the naming conventions in computer programming. Surprisi
 # Charles Hu (comeom) Thought
 
 Navigating the naming conventions in computer science is like being in a dysfunctional relationship where both partners speak different love languages. Just when you think you've understood what "objects" mean in C, it turns out it's not the romantic gesture you thought, but a simple note left on the fridge. Terms like "method," "property," and "attribute" are like those mixed signals where one moment you're planning a date night and the next, you're arguing about who left the dishes unwashed. With every programming language bringing its own baggage to the relationship, it's a wonder we haven't all signed up for couples therapy with our compilers. 💔🖥️
+
+# Dinxin's Thought
+
+I am fascinated by how different programming languages handle arrays and lists, shedding light on their underlying data structures and semantics. It underscores the low-level nature of C arrays and the introduction of more dynamic data structures like vectors and lists in C++. The text also delves into languages like Lisp, Haskell, Perl, Python, JavaScript, and PHP, highlighting the unique quirks and idiosyncrasies in each language's approach to arrays and lists, making it clear that understanding the nuances of data structures is crucial when working in diverse programming environments.
